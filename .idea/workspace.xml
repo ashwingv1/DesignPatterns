@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a552a27-1293-47f2-a1c5-3e1ba61762a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatternsImpl.iml" afterDir="false" />
+    <list default="true" id="8a552a27-1293-47f2-a1c5-3e1ba61762a0" name="Changes" comment="v1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/GeometryBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/HardwareItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/HardwareItemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/ItemsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/StationaryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/StationaryItemsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/AbstractFactory/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/GeometryBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/StationaryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/StationaryItemsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/Creational/FactoryMethod/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K0i6MaOGYTUdo9eg0iljGCpngP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,9 +54,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learning/Intellij projects/DesignPatternsImpl/src/designpatterns/Creational/AbstractFactory"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\Intellij projects\DesignPatternsImpl\src\designpatterns\Creational\AbstractFactory" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpatterns.Creational.Singleton.Client" />
@@ -61,8 +92,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673117726543</updated>
-      <workItem from="1673117727883" duration="200000" />
+      <workItem from="1673117727883" duration="3622000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.0">
+      <created>1673118066385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673118066385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1.0">
+      <created>1673118134258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673118134258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
   </component>
 </project>

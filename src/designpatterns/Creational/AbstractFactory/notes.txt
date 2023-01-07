@@ -1,0 +1,7 @@
+Abstract factory design pattern is similar to factory design pattern.
+We use this when we create objects of different sub groups.
+For example we need to create object of items and item is devided into Stationary item and Hardware item.
+Here We will have a Interface and implmenting factory classes.
+Factory object will be created in run time depending on need.
+
+In factory method we use a static method called create, but here we use normal method thus creating object of factory is mandatory to create actual objects.

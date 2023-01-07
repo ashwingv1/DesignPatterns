@@ -1,0 +1,2 @@
+Factory method design pattern can be used when we need to create objects of different types in run time.
+Here we create a Factory class and static create method in it. method creates and returns object of specific type based on input.
