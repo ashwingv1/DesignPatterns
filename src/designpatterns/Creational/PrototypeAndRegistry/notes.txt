@@ -1,0 +1,5 @@
+When we have objects which needs to be cloned frequently, we can use prototype design pattern.
+Here we support clone method in class of object. We can also have a prototype and cone the prototype to create each object when most of the attributes are same with minimal change.
+
+When we need to store multiple prototypes and use them in runtime based on need, we can use registry design pattern.
+It's uses prototype pattern and a registry class in addition. Registry classes stores prototype objects of different types.

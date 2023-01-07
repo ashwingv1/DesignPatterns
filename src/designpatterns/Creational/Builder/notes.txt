@@ -1,0 +1,6 @@
+Builder pattern is used to build the objects of below scenarios
+    1. when we have lot of attributes - it avoids constructor telescopping when we have some optional attributes
+    2. need to perform validations of attributes of the object, we can do it either from builder.build() method or inside constructor of object.
+    3. When we have number of complex steps to create an object. builder class can tak care of it.
+    4. Builder provides atomicity while building an object
+    5. Builder supports method chaining thus provides readability in the code
